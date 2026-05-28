@@ -1,9 +1,5 @@
 # Hi there! I'm Adheeshana Herath  👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=007acc&style=flat-square" alt="Profile views" />
-</p>
-
 ### 🔬 Software Researcher & Engineer | 💼 Project Manager
 > Bridging the gap between advanced predictive engineering and robust project delivery. Specialized in spatio-temporal modeling, data-driven systems, and agile team management.
 
